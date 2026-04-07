@@ -1,0 +1,9 @@
+name: Compliance Self-Assessment
+company: codemoravia
+status: active
+priority: medium
+description: Self-service compliance checker
+last_note: ''
+tags:
+- compliance
+- security
